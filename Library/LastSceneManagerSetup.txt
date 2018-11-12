@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/3D Diffusion Linear Aggregation.unity
+  isLoaded: 1
+  isActive: 1
