@@ -16,6 +16,7 @@ public class Grid3D : MonoBehaviour
 
     private float update;
     float color;
+    float notColor;
 
     // Use this for initialization
     void Start()
